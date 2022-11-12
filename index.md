@@ -1,6 +1,6 @@
 
 * [Author: chibat](https://chibat.github.io/)
-* [Source](https://github.com/chibat/blog)
+* [Add to the discussion](https://github.com/chibat/blog/discussions)
 
 ## Posts
 * [Angular と私(2022-11-11)](posts/angular.md)
