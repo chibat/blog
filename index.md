@@ -1,7 +1,7 @@
 
 [Author: chibat](https://chibat.github.io/)
 
-[Add to the discussion](https://github.com/chibat/blog/discussions) |
+[Comments](https://github.com/chibat/blog/discussions/categories/general) |
 [Search](https://github.com/search?q=repo%3Achibat%2Fblog+&type=code)
 
 ## Posts
