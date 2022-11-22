@@ -2,7 +2,7 @@
 
 もはや5年くらい前の話です。  
 新しいプロダクトを作るという事になり、フロントエンドフレームワークに Angular を選択しました。
-当時、React も候補にありましたが、Angular を選択しました。React を選択しなかった理由は、みんなもう忘れているかもしれませんが React にはライセンスの問題があったためです。
+当時、React も候補にありましたが、Angular を選択しました。React を選択しなかった理由は、みんなもう忘れているかもしれませんが React にはライセンスの問題があったためです。  
 [google.co.jp/search?q=react+ライセンス+問題](https://www.google.co.jp/search?q=react+%E3%83%A9%E3%82%A4%E3%82%BB%E3%83%B3%E3%82%B9+%E5%95%8F%E9%A1%8C)  
 そして、Angular 自体が TypeScript で作られているし、Http Client や DI など含まれていてライブラリの組み合わせに悩むことがないと思いました。
 
